@@ -1,11 +1,11 @@
 import AboutUs from "./components/AboutUs/AboutUs";
-import CountSection from "./components/countSection/CountSection";
+import CountSection from "./components/CountSection/CountSection";
 import EquipmentRepairing from "./components/EquipmentRepairing/EquipmentRepairing";
-import Herosection from "./components/heroSection/Herosection";
-import Location from "./components/location/Location";
-import Services from "./components/services/Services";
-import Navbar from "./components/navbar/Navbar";
-import Topbar from "./components/topBar/Topbar";
+import Herosection from "./components/HeroSection/Herosection";
+import Location from "./components/Location/Location";
+import Services from "./components/Services/Services";
+import Navbar from "./components/Navbar/Navbar";
+import Topbar from "./components/TopBar/Topbar";
 import Footer from "./components/Footer/Footer";
 import Industries from "./components/Industries/Industries";
 import ChooseUs from "./components/ChooseUs/ChooseUs";
@@ -19,9 +19,7 @@ const App = () => {
       <AboutUs />
       <EquipmentRepairing />
       <CountSection />
-      <Services /> 
-
-       
+      <Services />  
       <Industries />
       <ChooseUs />
       <Location />
