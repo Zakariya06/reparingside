@@ -1,4 +1,4 @@
-import AboutUs from "./components/aboutUs/AboutUs";
+import AboutUs from "./components/AboutUs/AboutUs";
 import CountSection from "./components/countSection/CountSection";
 import EquipmentRepairing from "./components/EquipmentRepairing/EquipmentRepairing";
 import Herosection from "./components/heroSection/Herosection";
