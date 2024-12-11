@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./countSection.css";
+import "./countStyling.css";
 import CountUp from "react-countup";
 
 const CountSection = () => {
