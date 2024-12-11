@@ -19,7 +19,9 @@ const App = () => {
       <AboutUs />
       <EquipmentRepairing />
       <CountSection />
-      <Services />
+      <Services /> 
+
+       
       <Industries />
       <ChooseUs />
       <Location />
