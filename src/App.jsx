@@ -9,13 +9,16 @@ import Topbar from "./components/TopBar/Topbar";
 import Footer from "./components/Footer/Footer";
 import Industries from "./components/Industries/Industries";
 import ChooseUs from "./components/ChooseUs/ChooseUs";
-
+ 
 const App = () => {
   return (
     <>
       <Topbar />
       <Navbar />
       <Herosection />
+
+
+      
       <AboutUs />
       <EquipmentRepairing />
       <CountSection />
