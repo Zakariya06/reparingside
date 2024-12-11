@@ -18,7 +18,10 @@ const App = () => {
       <Herosection /> 
       <AboutUs />
       <EquipmentRepairing />
-      <CountSection />
+      <CountSection />  
+
+
+      
       <Services />  
       <Industries />
       <ChooseUs />
